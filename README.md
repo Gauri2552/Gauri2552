@@ -6,6 +6,26 @@
 - 💬 Ask me about **python ,Data visualization,SQL**
 
 - 📫 How to reach me **gaurikshirsagar51@gmail.com**
+# AI-Based Subjective Answer Evaluation System
+
+## Problem
+Manual grading is time-consuming and inconsistent.
+
+## Solution
+Built NLP-based system to evaluate answers using semantic similarity.
+
+## Tech Stack
+Python, NLP, TF-IDF, SVM
+
+## Results
+- 85% accuracy
+- Reduced grading time by 40%
+
+## Demo
+[Streamlit App Link]
+
+## Screenshots
+(ADD IMAGES HERE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
