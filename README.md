@@ -22,10 +22,8 @@ Python, NLP, TF-IDF, SVM
 - Reduced grading time by 40%
 
 ## Demo
-[Streamlit App Link]
+python manage.py runserver
 
-## Screenshots
-(ADD IMAGES HERE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
