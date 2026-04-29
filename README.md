@@ -1,34 +1,83 @@
-<h1 align="center">Hi 👋, I'm Gauri</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h1 align="center">Hi 👋, I'm Gauri Kshirsagar</h1>
+<h3 align="center">MSc Data Science Student | Aspiring Data Scientist | UK</h3>
 
-- 🌱 I’m currently learning **MSc in Data Science**
-
-- 💬 Ask me about **python ,Data visualization,SQL**
-
-- 📫 How to reach me **gaurikshirsagar51@gmail.com**
-# AI-Based Subjective Answer Evaluation System
-
-## Problem
-Manual grading is time-consuming and inconsistent.
-
-## Solution
-Built NLP-based system to evaluate answers using semantic similarity.
-
-## Tech Stack
-Python, NLP, TF-IDF, SVM
-
-## Results
-- 85% accuracy
-- Reduced grading time by 40%
-
-## Demo
-python manage.py runserver
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gauri kshirsagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauri kshirsagar" height="30" width="40" /></a>
+<p align="center">
+💡 Turning data into insights | 📊 Building ML-driven solutions | 🚀 Open to internships (UK & Remote)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 👩‍💻 About Me
+- 🎓 MSc Data Science @ University of Leicester  
+- 🔍 Strong interest in **Machine Learning, Data Analytics & NLP**  
+- 📊 Experienced in **real-world data projects (75K+ records, predictive modelling, dashboards)**  
+- 🌱 Currently improving **model optimisation, deployment & advanced analytics**
+
+---
+
+## 🧠 Technical Skills
+- **Languages:** Python, SQL, R  
+- **Data Analysis:** Pandas, NumPy, Excel  
+- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn, SVM, Random Forest, Gradient Boosting  
+- **NLP:** TF-IDF, Text Similarity, Basic NLP pipelines  
+- **Tools:** Git, VS Code, Jupyter, Streamlit  
+- **Databases:** MySQL, MongoDB  
+
+---
+
+## 🚀 Featured Project
+
+### 📌 AI-Based Subjective Answer Evaluation System
+- 🔹 Built an NLP-based system to evaluate subjective answers using **semantic similarity**
+- 🔹 Applied **TF-IDF + SVM model** for answer scoring
+- 🔹 Achieved **85% accuracy**
+- 🔹 Reduced manual grading time by **40%**
+- 🔹 Designed for scalable academic evaluation systems  
+
+💻 **Tech Stack:** Python | NLP | Scikit-learn  
+
+---
+
+## 📈 Other Project Highlights
+- 🔹 **Fraud Detection System**
+  - Analysed **75,000+ transactions**
+  - Achieved **ROC-AUC > 0.91**
+  - Built Power BI dashboard with 8 KPIs  
+
+- 🔹 **Energy Consumption Prediction**
+  - Applied **Regression & Random Forest (R² ≈ 0.998)**
+  - Identified key drivers like reactive power & CO₂  
+
+- 🔹 **GHG Emissions Analysis (Eurostat)**
+  - Analysed **32 countries (2014–2023)**
+  - Built 9+ visual insights using Python  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/gauri-kshirsagar" target="blank">
+<img align="center" src="https://github.com/Gauri2552" height="30" width="40" />
+</a>
+</p>
+
+📫 Email: **gaurikshirsagar51@gmail.com**
+
+---
+
+## ⚡ What I'm Looking For
+- Data Science / Data Analyst Internships (UK / Remote)
+- Opportunities to work on **real-world ML & analytics problems**
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+</p>
