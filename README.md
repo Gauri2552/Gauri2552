@@ -91,7 +91,8 @@ MSc Data Science Student | Aspiring Data Scientist | UK 🇬🇧
 ---
 
 ## 🎯 What I'm Looking For
-- Data Science / Data Analyst Internships (UK 🇬🇧 / Remote)
+- Data Science / Data Analyst  (UK - Graduate Roles and Internship )
+- Data Science / Data Analyst (EU - Graduate Roles and Internship - Ready to Relocate and Remote)
 - Real-world ML & analytics problem-solving opportunities  
 
 ---
