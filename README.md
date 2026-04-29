@@ -57,7 +57,7 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/gauri-kshirsagar" target="blank">
+<a href="www.linkedin.com/in/gauri-kshirsagar30" target="blank">
 <img align="center" src="https://github.com/Gauri2552" height="30" width="40" />
 </a>
 </p>
