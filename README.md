@@ -70,15 +70,6 @@ MSc Data Science Student | Aspiring Data Scientist | UK 🇬🇧
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gauri2552&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gauri2552&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
